@@ -67,11 +67,23 @@ To run the code provided in this repository, follow these steps:
 
 2. Install the required dependencies:
 
+    This repository uses Plotly and Dash for creating interactive visualizations. You can install these libraries using pip:
+
     ```bash
-    pip install -r requirements.txt
+    pip install plotly dash
     ```
 
 3. Navigate to the assignment or project directory you want to run and open the Jupyter Notebook or Python script:
+
+    ```bash
+    jupyter notebook homework/homework1/homework1.ipynb
+    ```
+
+    or run the Python script directly:
+
+    ```bash
+    python homework/homework1/homework1.py
+    ```
 
     ```bash
     jupyter notebook homework/homework1/homework1.ipynb
