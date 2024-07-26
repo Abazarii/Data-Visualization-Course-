@@ -30,16 +30,16 @@ The Data Visualization course covered the following topics:
 
 Each homework assignment is contained within its own directory and includes the following:
 
-- **Homework 1**: [Interactive Bar Chart](homework/homework1)  
+- **Homework 1**: [Interactive Bar Chart](Data-Visualization-Course-/HW1)  
   Created using Plotly and Dash. This assignment involves an interactive bar chart that allows users to explore data dynamically.
 
-- **Homework 2**: [Heatmap and Line Chart](homework/homework2)  
+- **Homework 2**: [Heatmap and Line Chart](Data-Visualization-Course-/HW2)  
   Utilized Plotly to create a heatmap and a line chart. The heatmap represents daily trees planted in Sud Ouest in 2017, and the accompanying line chart visualizes the trends over time.
 
-- **Homework 3**: [Bubble Chart](homework/homework3)  
+- **Homework 3**: [Bubble Chart](Data-Visualization-Course-/HW3)  
   Developed using Plotly and Dash. This assignment features a bubble chart illustrating the relationship between GDP and CO2 emissions, providing insights into economic and environmental factors.
 
-- **Homework 4**: [Scatter Map of Pedestrian Paths](homework/homework4)  
+- **Homework 4**: [Scatter Map of Pedestrian Paths](Data-Visualization-Course-/HW4)  
   Implemented with Plotly and Dash. This scatter map displays the geographical locations and types of pedestrian paths in Montreal. It includes interactive tooltips showing each borough's name and path, and an informational panel appears when each marker is clicked.
 
 
