@@ -30,7 +30,7 @@ The Data Visualization course covered the following topics:
 
 Each homework assignment is contained within its own directory and includes the following:
 
-- **Homework 1**: [Interactive Bar Chart](Data-Visualization-Course-/HW1)  
+- **Homework 1**: [Interactive Bar Chart](HW1)  
   Created using Plotly and Dash. This assignment involves an interactive bar chart that allows users to explore data dynamically.
 
 - **Homework 2**: [Heatmap and Line Chart](Data-Visualization-Course-/HW2)  
