@@ -1,6 +1,6 @@
 # Data Visualization Course Repository
 
-Welcome to the **Data Visualization Course** repository! This repository contains all the homework assignments and projects completed during the Data Visualization course. The goal of this course was to enhance our skills in visualizing data using various tools and techniques.
+Welcome to the **Data Visualization Course** repository! This repository contains all the homework assignments completed during the Data Visualization course. The goal of this course was to enhance our skills in visualizing data using various tools and techniques.
 
 ## Table of Contents
 
