@@ -7,7 +7,6 @@ Welcome to the **Data Visualization Course** repository! This repository contain
 - [Introduction](#introduction)
 - [Course Overview](#course-overview)
 - [Homework Assignments](#homework-assignments)
-- [Projects](#projects)
 - [Tools and Technologies](#tools-and-technologies)
 - [Setup Instructions](#setup-instructions)
 
@@ -31,13 +30,22 @@ The Data Visualization course covered the following topics:
 
 Each homework assignment is contained within its own directory and includes the following:
 
-- **Homework 1**: [Introduction to Matplotlib](homework/homework1)
-- **Homework 2**: [Creating Complex Visualizations with Seaborn](homework/homework2)
-- **Homework 3**: [Interactive Visualizations with Plotly](homework/homework3)
-- **Homework 4**: [Data Visualization with Tableau](homework/homework4)
-- **Homework 5**: [Advanced Techniques and Storytelling](homework/homework5)
+## Homework Assignments
 
-Each directory contains the assignment instructions, datasets, and code used to complete the assignment.
+Each homework assignment is contained within its own directory and includes the following:
+
+- **Homework 1**: [Interactive Bar Chart](homework/homework1)  
+  Created using Plotly and Dash. This assignment involves an interactive bar chart that allows users to explore data dynamically.
+
+- **Homework 2**: [Heatmap and Line Chart](homework/homework2)  
+  Utilized Plotly to create a heatmap and a line chart. The heatmap represents daily trees planted in Sud Ouest in 2017, and the accompanying line chart visualizes the trends over time.
+
+- **Homework 3**: [Bubble Chart](homework/homework3)  
+  Developed using Plotly and Dash. This assignment features a bubble chart illustrating the relationship between GDP and CO2 emissions, providing insights into economic and environmental factors.
+
+- **Homework 4**: [Scatter Map of Pedestrian Paths](homework/homework4)  
+  Implemented with Plotly and Dash. This scatter map displays the geographical locations and types of pedestrian paths in Montreal. It includes interactive tooltips showing each borough's name and path, and an informational panel appears when each marker is clicked.
+
 
 ## Tools and Technologies
 
@@ -48,7 +56,6 @@ The following tools and technologies were used throughout the course:
 - **Seaborn**: Library for making statistical graphics
 - **Plotly**: Library for creating interactive plots
 - **Dash**: Framework for building interactive web applications
-- **Tableau**: Data visualization tool
 - **Jupyter Notebook**: Interactive computing environment
 
 ## Setup Instructions
